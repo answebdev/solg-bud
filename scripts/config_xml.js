@@ -2,7 +2,7 @@ var TSC = TSC || {};
 
 TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
-      <rdf:Description dc:date="2021-11-29 06:08:39 PM" dc:source="Camtasia,21.0.14,enu" dc:title="Why I Am Not A Buddhist" tscDM:firstFrame="Why_I_Am_Not_A_Buddhist_First_Frame.png" tscDM:originId="4008F244-CC86-4CE9-950F-42AD474C247E" tscDM:project="Untitled Project">\
+      <rdf:Description dc:date="2021-11-29 07:01:52 PM" dc:source="Camtasia,21.0.14,enu" dc:title="solg" tscDM:firstFrame="solg_First_Frame.png" tscDM:originId="4008F244-CC86-4CE9-950F-42AD474C247E" tscDM:project="Why I Am Not a Buddhist Edit">\
          <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="320500"/>\
          <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="362" stDim:w="640"/>\
          <tsc:langName>\
@@ -29,7 +29,7 @@ TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta
             <rdf:Description>\
                <tscDM:files>\
                   <rdf:Seq>\
-                     <rdf:li xmpDM:name="0" xmpDM:value="Why I Am Not A Buddhist.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="Why_I_Am_Not_A_Buddhist_First_Frame.png"/></rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="solg.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="solg_First_Frame.png"/></rdf:Seq>\
                </tscDM:files>\
             </rdf:Description>\
          </tscDM:contentList>\
